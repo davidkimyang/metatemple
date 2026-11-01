@@ -1,0 +1,1 @@
+ALTER TABLE `visitors` ADD `nickname` text;

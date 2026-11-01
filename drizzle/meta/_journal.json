@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1793511576846,
+      "tag": "0000_fluffy_doomsday",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1793513039092,
+      "tag": "0001_woozy_dreadnoughts",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1793517444164,
+      "tag": "0002_fresh_spot",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1793522041487,
+      "tag": "0003_special_boomer",
+      "breakpoints": true
+    }
+  ]
+}

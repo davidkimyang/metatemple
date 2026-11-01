@@ -1,0 +1,191 @@
+[
+  {
+    "source": "/assets/altar-devotion.jpg",
+    "sha256": "2c344920105b7a3a2f795c9d03b963a940cc412f11c51490086b5b093aa85b5e",
+    "bytes": 1290114,
+    "encoding": "identity",
+    "path": "/v/37821d4f60cfb916c0bd/assets/altar-devotion.jpg"
+  },
+  {
+    "source": "/assets/environment/woodland.jpg",
+    "sha256": "b8ccb24932eda22009c7c68d683f2b365b705d5998803d1606952463170b5ed4",
+    "bytes": 799413,
+    "encoding": "identity",
+    "path": "/v/37821d4f60cfb916c0bd/assets/environment/woodland.jpg"
+  },
+  {
+    "source": "/assets/materials/cloth/color.jpg",
+    "sha256": "68d93b2eea964dd5d731bb272573319b1b732feb41b756ae88b7321e22f3836b",
+    "bytes": 203321,
+    "encoding": "identity",
+    "path": "/v/37821d4f60cfb916c0bd/assets/materials/cloth/color.jpg"
+  },
+  {
+    "source": "/assets/materials/cloth/normal.jpg",
+    "sha256": "9b615e5fccd1252aa3506aaf3b01c1771f0d3982bb88084c949c8a7768c5dd05",
+    "bytes": 270710,
+    "encoding": "identity",
+    "path": "/v/37821d4f60cfb916c0bd/assets/materials/cloth/normal.jpg"
+  },
+  {
+    "source": "/assets/materials/cloth/roughness.jpg",
+    "sha256": "250dffdd858ee0fde9228c34d863b72f977c6d837923d4ef70a4abe9555def7f",
+    "bytes": 71359,
+    "encoding": "identity",
+    "path": "/v/37821d4f60cfb916c0bd/assets/materials/cloth/roughness.jpg"
+  },
+  {
+    "source": "/assets/materials/ground/color.jpg",
+    "sha256": "2917478b165398fcf44826a4ba7afb8f1a709004773eaa4cbf884d1064ed80c3",
+    "bytes": 580159,
+    "encoding": "identity",
+    "path": "/v/37821d4f60cfb916c0bd/assets/materials/ground/color.jpg"
+  },
+  {
+    "source": "/assets/materials/ground/normal.jpg",
+    "sha256": "be1d53726eb3ac2e3fc1ba92aeef93d70bab5d25f2caee6909fd2334535a79e4",
+    "bytes": 850814,
+    "encoding": "identity",
+    "path": "/v/37821d4f60cfb916c0bd/assets/materials/ground/normal.jpg"
+  },
+  {
+    "source": "/assets/materials/ground/roughness.jpg",
+    "sha256": "09cc07f6c822030969512f2e5cb8299203a064b43d761d7cedf02b9d4a9e6e59",
+    "bytes": 220289,
+    "encoding": "identity",
+    "path": "/v/37821d4f60cfb916c0bd/assets/materials/ground/roughness.jpg"
+  },
+  {
+    "source": "/assets/materials/plaster/color.jpg",
+    "sha256": "43d30d55955e492a4bfd4780f565b8cd34b3cc1790b5fecb889b02aa64505266",
+    "bytes": 445803,
+    "encoding": "identity",
+    "path": "/v/37821d4f60cfb916c0bd/assets/materials/plaster/color.jpg"
+  },
+  {
+    "source": "/assets/materials/plaster/normal.jpg",
+    "sha256": "50378ea78aa6876bc75398a4c87b58d85196f99eb083cc18116628af9a35d968",
+    "bytes": 528798,
+    "encoding": "identity",
+    "path": "/v/37821d4f60cfb916c0bd/assets/materials/plaster/normal.jpg"
+  },
+  {
+    "source": "/assets/materials/plaster/roughness.jpg",
+    "sha256": "b2511b533f9f358d1c0693e61f55a5ec85b029898468d79eb718c547d700ba15",
+    "bytes": 37280,
+    "encoding": "identity",
+    "path": "/v/37821d4f60cfb916c0bd/assets/materials/plaster/roughness.jpg"
+  },
+  {
+    "source": "/assets/materials/rock/color.jpg",
+    "sha256": "bb99dcaeee3ca50309ff95b11b0e6c2af27d23f90d30a72bda04106407e8000d",
+    "bytes": 618576,
+    "encoding": "identity",
+    "path": "/v/37821d4f60cfb916c0bd/assets/materials/rock/color.jpg"
+  },
+  {
+    "source": "/assets/materials/rock/normal.jpg",
+    "sha256": "45ad53aefcf52f5f49d0d1881fe392eaeebeda136ec20f9f2b0f6fd2a293c032",
+    "bytes": 513703,
+    "encoding": "identity",
+    "path": "/v/37821d4f60cfb916c0bd/assets/materials/rock/normal.jpg"
+  },
+  {
+    "source": "/assets/materials/rock/roughness.jpg",
+    "sha256": "fdc6e8262e08ac176e94bca1db126e73178c5304041209a91ea0b1cb6994cec0",
+    "bytes": 379155,
+    "encoding": "identity",
+    "path": "/v/37821d4f60cfb916c0bd/assets/materials/rock/roughness.jpg"
+  },
+  {
+    "source": "/assets/materials/roof/color.jpg",
+    "sha256": "3e8a43ff937425389f3812683be5e7389b951908bc6aa9b875f57e21ed349564",
+    "bytes": 33239,
+    "encoding": "identity",
+    "path": "/v/37821d4f60cfb916c0bd/assets/materials/roof/color.jpg"
+  },
+  {
+    "source": "/assets/materials/roof/normal.jpg",
+    "sha256": "dca756bc219d455487544e0ef69570eb8e5b7a66cca49e112b25b27e953fda1e",
+    "bytes": 54032,
+    "encoding": "identity",
+    "path": "/v/37821d4f60cfb916c0bd/assets/materials/roof/normal.jpg"
+  },
+  {
+    "source": "/assets/materials/roof/roughness.jpg",
+    "sha256": "6b157b2c2ebef780d479c6e2e1ce0b4ed85405b2424718e17e05751cc71ded80",
+    "bytes": 673,
+    "encoding": "identity",
+    "path": "/v/37821d4f60cfb916c0bd/assets/materials/roof/roughness.jpg"
+  },
+  {
+    "source": "/assets/materials/stone/color.jpg",
+    "sha256": "ff60082ae5226c39c5c9d6cb25d215c1d2ea71efb5e283bc515434c4484c0c5c",
+    "bytes": 527525,
+    "encoding": "identity",
+    "path": "/v/37821d4f60cfb916c0bd/assets/materials/stone/color.jpg"
+  },
+  {
+    "source": "/assets/materials/stone/normal.jpg",
+    "sha256": "285e62149efcb2c16051e7da35aed518997561cfb04a797cddca585fa407a689",
+    "bytes": 309367,
+    "encoding": "identity",
+    "path": "/v/37821d4f60cfb916c0bd/assets/materials/stone/normal.jpg"
+  },
+  {
+    "source": "/assets/materials/stone/roughness.jpg",
+    "sha256": "c4dc0f6489e21e4731029c7fee1883c5fd44de9ec571f7021d01de6dad5336b6",
+    "bytes": 108416,
+    "encoding": "identity",
+    "path": "/v/37821d4f60cfb916c0bd/assets/materials/stone/roughness.jpg"
+  },
+  {
+    "source": "/assets/materials/wood/color.jpg",
+    "sha256": "88d480c99fe1844be3ae081287085bd127989730cc68c4c874cc358cc62189d3",
+    "bytes": 351663,
+    "encoding": "identity",
+    "path": "/v/37821d4f60cfb916c0bd/assets/materials/wood/color.jpg"
+  },
+  {
+    "source": "/assets/materials/wood/normal.jpg",
+    "sha256": "010131d6e170d13c5e1d01b618cf75b4c6105e1c4418ccec3927b16b494e9800",
+    "bytes": 100419,
+    "encoding": "identity",
+    "path": "/v/37821d4f60cfb916c0bd/assets/materials/wood/normal.jpg"
+  },
+  {
+    "source": "/assets/materials/wood/roughness.jpg",
+    "sha256": "a931e3a24eece0d12c906820aa4620ea72543c286e8d560f28fd07f745f94096",
+    "bytes": 223634,
+    "encoding": "identity",
+    "path": "/v/37821d4f60cfb916c0bd/assets/materials/wood/roughness.jpg"
+  },
+  {
+    "source": "/assets/models/buddha.glb",
+    "sha256": "4ca8555700b3bf0a9db50bdb156ffb689478f315df3dc0a5db8f9f2afafb4a07",
+    "bytes": 1516016,
+    "encoding": "auto",
+    "path": "/v/37821d4f60cfb916c0bd/assets/models/buddha.glb"
+  },
+  {
+    "source": "/assets/models/pine.glb",
+    "sha256": "e1a1a47554e713569b5135bcc97e3e55ec7b9f68d29bd4d4331ccfe29d650715",
+    "bytes": 4893776,
+    "encoding": "auto",
+    "path": "/v/37821d4f60cfb916c0bd/assets/models/pine.glb"
+  },
+  {
+    "source": "/assets/monk-remote-lod.glb",
+    "sha256": "31fa64fc4471e1ee3ba07dd026d42ccb68c15f4b357627aea7000b8ab907553d",
+    "bytes": 222548,
+    "encoding": "auto",
+    "path": "/v/37821d4f60cfb916c0bd/assets/monk-remote-lod.glb"
+  },
+  {
+    "source": "/assets/monk.glb",
+    "sha256": "0dc4e7a1d22bec895e3f64b1b324292d82c4363a8cbbd2147f75b75e6929a2b1",
+    "bytes": 1288188,
+    "encoding": "auto",
+    "path": "/v/37821d4f60cfb916c0bd/assets/monk.glb"
+  }
+]
